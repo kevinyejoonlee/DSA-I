@@ -1,0 +1,137 @@
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Kevin Ye-joon Lee
+ID:      210872060
+Email:   leex7206@mylaurier.ca
+Version: "2022-01-05"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Origin
+ 0 Canadian
+ 1 Chinese
+ 2 Indian
+ 3 Ethiopian
+ 4 Mexican
+ 5 Greek
+ 6 Japanese
+ 7 Italian
+ 8 American
+ 9 Scottish
+10 New Zealand
+11 English
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Name:       Ravioli
+Origin:     Italian
+Vegetarian: False
+Calories:   246
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Name: Banana
+Origin
+ 0 Canadian
+ 1 Chinese
+ 2 Indian
+ 3 Ethiopian
+ 4 Mexican
+ 5 Greek
+ 6 Japanese
+ 7 Italian
+ 8 American
+ 9 Scottish
+10 New Zealand
+11 English
+: 11
+Enter Y/N: Y
+Calories: 123
+Name:       Banana
+Origin:     English
+Vegetarian: True
+Calories:   123
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Name:       Spanakopita
+Origin:     Greek
+Vegetarian: True
+Calories:   260
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+[<Food.Food object at 0x000001E1F83CAD70>, <Food.Food object at 0x000001E1F83CADD0>, <Food.Food object at 0x000001E1F83CB4C0>, <Food.Food object at 0x000001E1F83CB520>, <Food.Food object at 0x000001E1F83CB580>, <Food.Food object at 0x000001E1F83CB5E0>, <Food.Food object at 0x000001E1F83CB640>, <Food.Food object at 0x000001E1F83CB6A0>, <Food.Food object at 0x000001E1F83CB700>, <Food.Food object at 0x000001E1F83CB760>, <Food.Food object at 0x000001E1F83CB7C0>, <Food.Food object at 0x000001E1F83CB820>, <Food.Food object at 0x000001E1F83CB880>, <Food.Food object at 0x000001E1F83CB8E0>, <Food.Food object at 0x000001E1F83CB940>, <Food.Food object at 0x000001E1F83CB9A0>, <Food.Food object at 0x000001E1F83CBA00>, <Food.Food object at 0x000001E1F83CBA60>, <Food.Food object at 0x000001E1F83CBAC0>, <Food.Food object at 0x000001E1F83CBB20>, <Food.Food object at 0x000001E1F83CBB80>, <Food.Food object at 0x000001E1F83CBBE0>, <Food.Food object at 0x000001E1F83CBC40>, <Food.Food object at 0x000001E1F83CBCA0>, <Food.Food object at 0x000001E1F83CBD00>, <Food.Food object at 0x000001E1F83CBD60>, <Food.Food object at 0x000001E1F83CBDC0>, <Food.Food object at 0x000001E1F83CBE20>, <Food.Food object at 0x000001E1F83CBE80>, <Food.Food object at 0x000001E1F83CBEE0>, <Food.Food object at 0x000001E1F83CBF40>, <Food.Food object at 0x000001E1F83CBFA0>, <Food.Food object at 0x000001E1F875C040>, <Food.Food object at 0x000001E1F875C0A0>, <Food.Food object at 0x000001E1F875C100>, <Food.Food object at 0x000001E1F875C160>, <Food.Food object at 0x000001E1F875C1C0>, <Food.Food object at 0x000001E1F875C220>, <Food.Food object at 0x000001E1F875C280>, <Food.Food object at 0x000001E1F875C2E0>, <Food.Food object at 0x000001E1F875C340>, <Food.Food object at 0x000001E1F875C3A0>, <Food.Food object at 0x000001E1F875C400>]
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Apple|0|True|3
+Banana|1|False|2
+Orange|2|True|5
+
+-------------------------------------------------------
+t07
+-------------------------------------------------------
+Name:       Vegetable Alicha
+Origin:     Ethiopian
+Vegetarian: True
+Calories:   138
+Name:       Spanakopita
+Origin:     Greek
+Vegetarian: True
+Calories:   260
+Name:       Chamuco
+Origin:     Mexican
+Vegetarian: True
+Calories:   150
+Name:       Natto
+Origin:     Japanese
+Vegetarian: True
+Calories:   212
+Name:       Diet Free-Range Gluten-free Water
+Origin:     American
+Vegetarian: True
+Calories:   0
+Name:       Spicy Vegetable Moo Shu
+Origin:     Chinese
+Vegetarian: True
+Calories:   140
+Name:       Vegetables with Cashew Nuts
+Origin:     Chinese
+Vegetarian: True
+Calories:   143
+Name:       Greek Salad
+Origin:     Greek
+Vegetarian: True
+Calories:   185
+Name:       Shortbread 
+Origin:     Scottish
+Vegetarian: True
+Calories:   502
+Name:       Pavlova
+Origin:     New Zealand
+Vegetarian: True
+Calories:   272
+Name:       Hokey Pokey Ice Cream
+Origin:     New Zealand
+Vegetarian: True
+Calories:   106
+Name:       Chip Butty
+Origin:     English
+Vegetarian: True
+Calories:   956
+Name:       Crepe
+Origin:     Italian
+Vegetarian: True
+Calories:   186
+Name:       Spring Rolls
+Origin:     Chinese
+Vegetarian: True
+Calories:   200
+-------------------------------------------------------

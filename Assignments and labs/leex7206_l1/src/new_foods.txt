@@ -1,0 +1,3 @@
+Apple|0|True|3
+Banana|1|False|2
+Orange|2|True|5
